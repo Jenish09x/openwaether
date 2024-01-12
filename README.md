@@ -21,3 +21,8 @@ samples, guidance on mobile development, and a full API reference.
 
 https://github.com/Jenish09x/openwaether/assets/134168824/47e976e4-c029-42bb-85c8-0956fe7f92e3
 
+![3-portrait](https://github.com/Jenish09x/openwaether/assets/134168824/68efe841-8661-42fc-a404-63698c537625)
+![2-portrait](https://github.com/Jenish09x/openwaether/assets/134168824/c8ec9b5d-2840-4659-b9ae-5e4223fd2947)
+![1-portrait](https://github.com/Jenish09x/openwaether/assets/134168824/379fd637-ba09-4efc-8907-a2fae1e2fd5e)
+![5-portrait](https://github.com/Jenish09x/openwaether/assets/134168824/4a129e62-f5d6-441b-be93-6dd1c1a49d36)
+![4-portrait](https://github.com/Jenish09x/openwaether/assets/134168824/5cf96b93-3a4c-4b39-8a56-751c29029e29)
