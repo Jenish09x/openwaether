@@ -14,6 +14,7 @@ void main() {
       ],
       child: Consumer<ThemeProvider>(
         builder: (BuildContext context, value, Widget? child) {
+          value.changeTheme();
           return MaterialApp(
             theme: value.isLight?darkTheme:lightTheme,
             debugShowCheckedModeBanner: false,
